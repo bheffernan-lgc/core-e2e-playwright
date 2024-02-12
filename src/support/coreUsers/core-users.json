@@ -1,0 +1,83 @@
+{
+    "Core-AdminQAUser": {
+        "Username": "qaautomation@letsgetchecked.com",
+        "Password": "Apns&gFrApns&gFr@1"
+    },
+    "Core-QualityQAUser": {
+        "Username": "qualityqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-QualityAdminQAUser": {
+        "Username": "qualityadminqa@letsgetchecked.com",  
+        "Password": "12345678@Test!"
+    },
+    "Core-DispatchQAUser": {
+        "Username": "dispatchqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-DispatchAdminQAUser": {
+        "Username": "dispatchadminqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-ProductionQAUser": {
+        "Username": "productionqa@letsgetchecked.com", 
+        "Password": "12345678@Test!"
+    },
+    "Core-ProductionAdminQAUser": {
+        "Username": "productionadminqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-ManufacturingQAUser": {
+        "Username": "manufacturingqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-CommercialQAUser": {
+        "Username": "commercialqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-CommercialAdminQAUser": {
+        "Username": "commercialadminqa@letsgetchecked.com",  
+        "Password": "12345678@Test!"
+    },
+    "Core-LockoutQAUser": {
+        "Username": "flowlockoutqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-LockoutQAUser2": {
+        "Username": "flowlockoutqa2@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-UserManagerQAUser": {
+        "Username": "usermanagerqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-DeletedQAUser": {
+        "Username": "flowdeletedqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-DeveloperQAUser": {
+        "Username": "developerqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-LabAdminQAUser": {
+        "Username": "labadminqa@letsgetchecked.com",
+        "Password": "12345678@Test!"
+    },
+    "Core-TestTwoFAUser": {
+        "Username": "coreFlow2FA@letsgetchecked.com",
+        "Password": "12345678@Test!",
+        "SecretTwoFactorName": "VaultPathSecretCoreFlow2fa"
+    },
+    "FulFillmentQAUser": {
+        "Username": "qaautomation+fulfillment-hub-user@letsgetchecked.com",
+        "Password": "jvg_znz-RMB2jnf@axr"
+    },
+    "FulFillmentQAAdmin": {
+        "Username": "qaautomation+fulfillment-hub-admin@letsgetchecked.com",
+        "Password": "mxy3kmd-yvt!DAG0ugd"
+    },
+    "FulFillmentQADeveloper": {
+        "Username": "qaautomation+fulfillment-hub-dev@letsgetchecked.com",
+        "Password": "DPB!xvd4tmr8mqn.dzp"
+    }
+}
